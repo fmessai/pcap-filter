@@ -1,0 +1,1 @@
+Packet Capturing Filter is project for capturing packets, which are filtered and analyzing them. Primary goal is to analyze SIP and HTTP sessions. This project is for education purposes only. This application is built over Jpcap library.
